@@ -1,4 +1,5 @@
 {
   "issuer": "https://leakhairallah.github.io/mock_idp",
-  "jwks_uri": "https://leakhairallah.github.io/mock_idp/jwks.json"
+  "jwks_uri": "https://leakhairallah.github.io/mock_idp/jwks.json",
+  "response_types_supported": ["id_token"]
 }
