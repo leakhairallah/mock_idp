@@ -1,0 +1,3 @@
+# Include .well-known directory for OIDC discovery
+include:
+  - .well-known
