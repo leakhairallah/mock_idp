@@ -7,9 +7,8 @@
     "verify"
   ],
   "kty": "RSA",
-  "n": "edtANELjwBDIZv2YxWh_muAWNjv9pYdDhyFmMrGpDVeOeW1diQ9Pw_NqWaMq3QQyIcJ5Ts3LQUC1EwRe5pp6i4AcjQUCIQpJp8r7WMqeOq82vwRWRsvgZrgVB6tClaayImYFDNW0xy0PbwtkBlcsBEYXFDgeIZzqtP38K9oRa5aGf_5y5TaxPTOhTNJjA585K4S6kaN7FQ_lBmYndfChdk30uaFJA5Nnx7LeqWCAkZy730LZEEZNO7Mnp_Nus9JWuJiRJvdoDP7jEoj12MoBayhQBqZ-k9RWNqoR69IE59J_hsEsmc6QOj6qCEnXY1aPNZ-5kiE5k9V4TdeKMi6PfQ",
-  "kid": "mock-key-1",
-  "use": "sig"
-  }
+  "n": "rzu3MUj38AGuLPTEUcgFqfQ6cpTQMHXg9L30YCg3WvbXTnxatt4R73NMBMDFlmsqGNP0UjtSQ3HmEseX6W69Ty1kKtgMASWM6eFc4dPIu0iKkhsTp3eGEDa6Mp6ZGb0viRF8oirGB1NhApsK2YBFTx6MgrLP6dD85ubwip8oNJtGSBkquKmn_QK3wMbx_6oWqEzfg8kiueJ9ouD__Ja_fTH8A1ObjRVr7HRMboQcgiG6zneG02dopibux8ybZNf8WiAsEGhYX6_YvpJQ9xi0D4oG8lAge0hpBA05NACe2FFWisMX-S9QXewDVlbx7W5TKUllELNMBhr0FfCioz6BNQ",
+  "kid": "mock-key-1"
+}
 ]
 }
